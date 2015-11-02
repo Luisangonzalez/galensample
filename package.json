@@ -1,0 +1,26 @@
+{
+  "name": "galensample",
+  "version": "0.0.0",
+  "description": "Galen framework example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisangonzalez/galensample.git"
+  },
+  "keywords": [
+    "galen",
+    "exameple"
+  ],
+  "author": "Luisangonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisangonzalez/galensample/issues"
+  },
+  "homepage": "https://github.com/Luisangonzalez/galensample#readme",
+  "devDependencies": {
+    "galenframework-cli": "^2.1.2"
+  }
+}
